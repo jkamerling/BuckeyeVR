@@ -1,2 +1,2 @@
 # BuckeyeVR
-place to share bvr-files
+WZ-place to share bvr-files
